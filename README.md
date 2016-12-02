@@ -24,9 +24,12 @@ DO NOT SHARE THIS INFORMATION WITH ANYBODY ELSE!
 Test Twitter Access
 ---------
 1. We will use Twython to access Twitter data, you can install it by 
+
 ```
 pip install twython
 ```
+
+Note: if you have installed Anaconda for Windows, go to Anaconda Command Prompt, cd into C:\Program Files\Anaconda2\Scripts
 
 2. Now, create a Twython instance with your Consumer Key and Consumer Secret
 
@@ -42,6 +45,7 @@ twitter = Twython(APP_KEY, APP_SECRET,OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 ```
 
 3. Let's try to post a status on your twitter account through Python
+
 ```
 twitter.update_status(status='I am going to TDLG to Learn Python the Hard Way!')
 ```
