@@ -51,7 +51,7 @@ Let's try to post a status on your twitter account through Python
 twitter.update_status(status='I am going to TDLG to Learn Python the Hard Way!')
 ```
 
-Check your Twitter Profile. Hooray! You have completed the Prerequisites! See you the session!
+Check your Twitter Profile. Hooray! You have completed the Prerequisites! See you at the session!
 
 Credits
 ---------
