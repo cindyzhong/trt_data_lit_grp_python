@@ -27,7 +27,6 @@ Test Twitter Access
 ```
 pip install twython
 ```
-Note: if you have installed Anaconda for Windows, go to Anaconda Command Prompt, cd into C:\Program Files\Anaconda2\Scripts
 
 2. Now, create a Twython instance with your Consumer Key and Consumer Secret
 
