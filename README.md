@@ -27,10 +27,10 @@ Test Twitter Access
 ```
 pip install twython
 ```
-Note: if you have installed Anaconda for Windows, go to Anaconda Command Prompt,
-cd into C:\Program Files\Anaconda2\Scripts
+Note: if you have installed Anaconda for Windows, go to Anaconda Command Prompt, cd into C:\Program Files\Anaconda2\Scripts
 
 2. Now, create a Twython instance with your Consumer Key and Consumer Secret
+
 ```
 import Twython
 
@@ -46,6 +46,7 @@ twitter = Twython(APP_KEY, APP_SECRET,OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 ```
 twitter.update_status(status='I am going to TDLG to Learn Python the Hard Way!')
 ```
+
 4. Check your Twitter Profile. Hooray! You have completed the Prerequisites! See you the session!
 
 Credits
