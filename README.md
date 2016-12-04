@@ -18,7 +18,9 @@ our app on https://apps.twitter.com.
 
 2. Click on "Create New App"
 
-3. Obtain the Consumer key, Consumer secret, Access token, and Access token secret. Save them somewhere.
+3. Obtain the Consumer key, Consumer secret
+
+4. Go to "Manage Your Access Token", "Generate Access Token", Obtain Access token, and Access token secret. Save them somewhere.
 DO NOT SHARE THIS INFORMATION WITH ANYBODY ELSE!
 
 Test Twitter Access
@@ -37,10 +39,10 @@ Create a Twython instance with your Consumer Key and Consumer Secret
 ```
 from twython import Twython
 
-APP_KEY = "XXXXXX"
-APP_SECRET = "XXXXXX"
-OAUTH_TOKEN= "XXXXXX"
-OAUTH_TOKEN_SECRET= "XXXXXX"
+APP_KEY = "your_consumer_key"
+APP_SECRET = "your_consumer_secret"
+OAUTH_TOKEN= "your_access_key"
+OAUTH_TOKEN_SECRET= "your_access_token"
 
 twitter = Twython(APP_KEY, APP_SECRET,OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 ```
