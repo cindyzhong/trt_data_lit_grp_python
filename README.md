@@ -35,12 +35,12 @@ Note: if you have installed Anaconda for Windows, go to Anaconda Command Prompt,
 Create a Twython instance with your Consumer Key and Consumer Secret
 
 ```
-import Twython
+from twython import Twython
 
-APP_KEY = 'YOUR_CONSUMER_KEY'
-APP_SECRET = 'YOUR_CONSUMER_SECRET'
-OAUTH_TOKEN = 'YOUR_OAUTH_TOKEN'
-OAUTH_TOKEN_SECRET = 'YOUR_OAUTH_SECRET'
+APP_KEY = "yTsbWUVcHIZLhAGiEIW3cLcBD"
+APP_SECRET = "1ueRj649WHLVamjndLTmtyyLhSMmOH5N178WYgJ2TPPRuX9q7r"
+OAUTH_TOKEN="188627356-H59h9W5BzVDlx6ZRIG7rDkqlllu9h296vCSQom4f"
+OAUTH_TOKEN_SECRET="5uW5AxWx3IMQP26bZzG8Epkeyuh0piKOqsQ9tZsY25UYD"
 
 twitter = Twython(APP_KEY, APP_SECRET,OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 ```
