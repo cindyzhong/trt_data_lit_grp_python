@@ -6,6 +6,7 @@ In this class we will:
 - Geotracking user on Twitter
 
 Note that the code used in our workshop is modified from the blog posts in Credits.
+
 The Repository will be updated with the code once the workshop is completed.
 
 Credits
