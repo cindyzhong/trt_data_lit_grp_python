@@ -1,6 +1,12 @@
 The Repository contains material for lesson 1 of the Mining Social Media Data Series
+In this class we will:
+- Use Twython to get tweets from Twitter API
+- Mine User's Timeline and store useful features in a dataframe
+- Exploratory anaytics on the features
+- Geotracking user on Twitter
 
-Updating In Progress, Come Check Back Later
+Note that the code used in our workshop is modified from the blog posts in Credits.
+The Repository will be updated with the code once the workshop is completed.
 
 Credits
 ---------
