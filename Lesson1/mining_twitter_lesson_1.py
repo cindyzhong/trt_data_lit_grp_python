@@ -10,7 +10,7 @@ import pandas as pd
 from datetime import datetime
 import numpy as np
 #-----------------------------set twitter credentials--------------------------
-twitter_creds_df = pd.read_csv("C:\\twitter_creds.csv")
+twitter_creds_df = pd.read_csv("twitter_creds.csv")
 
 #-----------------------------Set up Twitter search parameters-----------------
 APP_KEY = twitter_creds_df.ix[0,0]
@@ -99,6 +99,7 @@ for searchQuery in searchQuerys:
         print ("Downloaded {0} tweets, for handle {1}".format(tweetCount,searchQuery))
         #Take a break
 #        time.sleep(10)
+
 #%%
 # Now let's do some exploratory analytics with the tweets!
 from collections import Counter
@@ -133,18 +134,13 @@ bar_2 = Bar(data_2, values='data_2',\
           legend = False,
           xlabel="User Mentions", ylabel="Number of Occurance")
 
-output_file("C:\\Users\\cancxz\\Desktop\\CindyLocal\\TDLG\\Lesson1\\trump_top_mentions.png.html")
+output_file("trump_top_mentions.png.html")
 show(row(bar,bar_2))
 
 #%%
 # Let's Geo Track Trump
-#import os
 import matplotlib.pyplot as plt
-#pip install seaborn
-#import seaborn as sns
-#conda install basemap
 from mpl_toolkits.basemap import Basemap
-#from matplotlib.patches import Polygon
 
 # Coordinates
 coord_frame = pd.DataFrame(tweet_df[tweet_df.handle == 'realDonaldTrump']['place'])
@@ -171,7 +167,7 @@ mxy = m(coord_frame['Long'].tolist(), coord_frame['Lat'].tolist())
 m.scatter(mxy[0], mxy[1], c='#ff3333', lw=0, alpha=0.5, zorder=10)
 
 plt.title('Where is Trump Tweeting From?')
-plt.savefig("C:\\Users\\cancxz\\Desktop\\CindyLocal\\TDLG\\Lesson1\\trump.png", dpi=300)
+plt.savefig("trump.png", dpi=300)
 plt.show()
 
 
