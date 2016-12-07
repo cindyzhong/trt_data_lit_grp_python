@@ -10,6 +10,7 @@ If you are using Mac, and you are getting unauthorized access try
 ```
 sudo pip install xxxx
 ```
+
 If you are using Windows, and you are getting pip install unauthorized access error try to "Run as an Adminstrator"
 
 3. what is key/access/customer secret? What are they used for?
