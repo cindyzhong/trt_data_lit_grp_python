@@ -3,9 +3,11 @@ FAQs We Got From Lesson 1
 Below are some commonly asked questions and answers to them:
 
 1. Compatibility with Python 3.5
+
 If you are running Python 3.5, please refer to README - Python 3 Users.MD
 
 2. Why am I not able to pip install?
+
 If you are using Mac, and you are getting unauthorized access try
 ```
 sudo pip install xxxx
@@ -13,7 +15,7 @@ sudo pip install xxxx
 
 If you are using Windows, and you are getting pip install unauthorized access error try to "Run as an Adminstrator"
 
-3. what is key/access/customer secret? What are they used for?
+3. What is key/access/customer secret? What are they used for
 Consumer: A website or application that uses OAuth to access the Service Provider on behalf of the User.
 
 Consumer Key: A value used by the Consumer to identify itself to the Service Provider. (see as account name) 
