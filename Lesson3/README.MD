@@ -9,7 +9,7 @@ Credits
 * [Introduction to Social Network methods](http://faculty.ucr.edu/~hanneman/nettext/index.html)
 
 If you are interested in how the data was captured (Was actually done in R)
-* [Harry Potter Network](https://github.com/dpmartin42/Networks/tree/master/Harry%20Potter/data)
-* [Harry Potter Network 2](https://github.com/efekarakus/potter-network)
+* [Harry Potter Network - with Sample Code](https://github.com/dpmartin42/Networks/tree/master/Harry%20Potter/data)
+* [Harry Potter Network 2 - with Data Only](https://github.com/efekarakus/potter-network)
 
 
