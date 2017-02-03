@@ -7,3 +7,9 @@ Credits
 ---------
 * [Social Network Analysis for Startups](https://github.com/maksim2042/SNABook)
 * [Introduction to Social Network methods](http://faculty.ucr.edu/~hanneman/nettext/index.html)
+
+If you are interested in how the data was captured
+* [Harry Potter Network] https://github.com/dpmartin42/Networks/tree/master/Harry%20Potter/data
+* [Harry Potter Network 2] https://github.com/efekarakus/potter-network
+
+
