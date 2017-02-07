@@ -2,6 +2,7 @@ The Repository contains material for lesson 3 of the Mining Social Media Data Se
 In this class we will:
 - Learn the basics idea of Social Network Analysis
 - Apply Social Network Analysis on Harry Potter
+- Super fun things
 
 Credits
 ---------
