@@ -1,514 +1,514 @@
-source,target,relation
-Regulus Arcturus Black,Sirius Black,-
-Regulus Arcturus Black,Bellatrix Lestrange,-
-Regulus Arcturus Black,Lord Voldemort,-
-Sirius Black,Regulus Arcturus Black,-
-Sirius Black,Albus Dumbledore,+
-Sirius Black,Hermione Granger,+
-Sirius Black,Bellatrix Lestrange,-
-Sirius Black,Remus Lupin,+
-Sirius Black,Lucius Malfoy,-
-Sirius Black,Narcissa Malfoy,-
-Sirius Black,Minerva McGonagall,+
-Sirius Black,"Alastor ""Mad-Eye"" Moody",+
-Sirius Black,Peter Pettigrew,-
-Sirius Black,Harry Potter,+
-Sirius Black,James Potter,+
-Sirius Black,Lily Potter,+
-Sirius Black,Lord Voldemort,-
-Sirius Black,Severus Snape,-
-Sirius Black,Nymphadora Tonks,+
-Sirius Black,Arthur Weasley,+
-Sirius Black,Fred Weasley,+
-Sirius Black,George Weasley,+
-Sirius Black,Ginny Weasley,+
-Sirius Black,Ron Weasley,+
-Lavender Brown,Hermione Granger,-
-Lavender Brown,Neville Longbottom,+
-Lavender Brown,Ron Weasley,+
-Cho Chang,Cedric Diggory,+
-Cho Chang,Seamus Finnigan,+
-Cho Chang,Hermione Granger,+
-Cho Chang,Neville Longbottom,+
-Cho Chang,Harry Potter,+
-Cho Chang,Lord Voldemort,-
-Cho Chang,Ron Weasley,+
-Vincent Crabbe Sr.,Regulus Arcturus Black,+
-Vincent Crabbe Sr.,Vincent Crabbe,+
-Vincent Crabbe Sr.,"Bartemius ""Barty"" Crouch Sr.",+
-Vincent Crabbe Sr.,Bellatrix Lestrange,+
-Vincent Crabbe Sr.,Lucius Malfoy,+
-Vincent Crabbe Sr.,Peter Pettigrew,+
-Vincent Crabbe Sr.,Lord Voldemort,+
-Vincent Crabbe Sr.,Severus Snape,+
-Vincent Crabbe,Vincent Crabbe Sr.,+
-Vincent Crabbe,Dolores Janes Umbridge,+
-Vincent Crabbe,Gregory Goyle,+
-Vincent Crabbe,Hermione Granger,-
-Vincent Crabbe,Draco Malfoy,+
-Vincent Crabbe,Harry Potter,-
-Vincent Crabbe,Ron Weasley,-
-"Bartemius ""Barty"" Crouch Sr.",Vincent Crabbe Sr.,+
-"Bartemius ""Barty"" Crouch Sr.","Bartemius ""Barty"" Crouch Jr.",-
-"Bartemius ""Barty"" Crouch Sr.",Igor Karkaroff,+
-"Bartemius ""Barty"" Crouch Sr.",Percy Weasley,+
-"Bartemius ""Barty"" Crouch Jr.","Bartemius ""Barty"" Crouch Sr.",-
-"Bartemius ""Barty"" Crouch Jr.",Hermione Granger,-
-"Bartemius ""Barty"" Crouch Jr.",Neville Longbottom,+
-"Bartemius ""Barty"" Crouch Jr.",Minerva McGonagall,-
-"Bartemius ""Barty"" Crouch Jr.","Alastor ""Mad-Eye"" Moody",-
-"Bartemius ""Barty"" Crouch Jr.",Harry Potter,-
-"Bartemius ""Barty"" Crouch Jr.",Lord Voldemort,+
-"Bartemius ""Barty"" Crouch Jr.",Severus Snape,-
-"Bartemius ""Barty"" Crouch Jr.",Peter Pettigrew,+
-Fleur Delacour,Hermione Granger,+
-Fleur Delacour,Bellatrix Lestrange,-
-Fleur Delacour,Neville Longbottom,+
-Fleur Delacour,"Alastor ""Mad-Eye"" Moody",+
-Fleur Delacour,Harry Potter,+
-Fleur Delacour,Bill Weasley,+
-Fleur Delacour,Ginny Weasley,+
-Fleur Delacour,Molly Weasley,+
-Fleur Delacour,Ron Weasley,+
-Cedric Diggory,Cho Chang,+
-Cedric Diggory,Harry Potter,+
-Cedric Diggory,Lord Voldemort,-
-Alberforth Dumbledore,Albus Dumbledore,+
-Alberforth Dumbledore,Hermione Granger,+
-Alberforth Dumbledore,Harry Potter,+
-Alberforth Dumbledore,Ron Weasley,+
-Alberforth Dumbledore,Dobby,+
-Albus Dumbledore,Sirius Black,+
-Albus Dumbledore,Alberforth Dumbledore,+
-Albus Dumbledore,Petunia Dursley,-
-Albus Dumbledore,Vernon Dursley,-
-Albus Dumbledore,Hermione Granger,+
-Albus Dumbledore,Rubeus Hagrid,+
-Albus Dumbledore,Bellatrix Lestrange,-
-Albus Dumbledore,Remus Lupin,+
-Albus Dumbledore,Minerva McGonagall,+
-Albus Dumbledore,Minerva McGonagall,+
-Albus Dumbledore,"Alastor ""Mad-Eye"" Moody",+
-Albus Dumbledore,Peter Pettigrew,-
-Albus Dumbledore,Harry Potter,+
-Albus Dumbledore,James Potter,+
-Albus Dumbledore,Lily Potter,+
-Albus Dumbledore,Quirinus Quirrell,-
-Albus Dumbledore,Lord Voldemort,-
-Albus Dumbledore,Rita Skeeter,-
-Albus Dumbledore,Severus Snape,+
-Albus Dumbledore,Dolores Janes Umbridge,-
-Albus Dumbledore,Dolores Janes Umbridge,-
-Albus Dumbledore,Arthur Weasley,+
-Albus Dumbledore,Bill Weasley,+
-Albus Dumbledore,Charlie Weasley,+
-Albus Dumbledore,Fred Weasley,+
-Albus Dumbledore,George Weasley,+
-Albus Dumbledore,Ginny Weasley,+
-Albus Dumbledore,Molly Weasley,+
-Albus Dumbledore,Percy Weasley,+
-Albus Dumbledore,Ron Weasley,+
-Dudley Dursley,Dudley Dursley,+
-Dudley Dursley,Vernon Dursley,+
-Dudley Dursley,Harry Potter,-
-Dudley Dursley,Rubeus Hagrid,-
-Petunia Dursley,Albus Dumbledore,-
-Petunia Dursley,Dudley Dursley,+
-Petunia Dursley,Petunia Dursley,+
-Petunia Dursley,Harry Potter,-
-Petunia Dursley,Lily Potter,-
-Vernon Dursley,Albus Dumbledore,-
-Vernon Dursley,Dudley Dursley,+
-Vernon Dursley,Petunia Dursley,+
-Vernon Dursley,Harry Potter,-
-Argus Filch,Sirius Black,-
-Argus Filch,Albus Dumbledore,+
-Argus Filch,Rubeus Hagrid,-
-Argus Filch,Minerva McGonagall,-
-Argus Filch,Peter Pettigrew,-
-Argus Filch,Harry Potter,-
-Argus Filch,James Potter,-
-Argus Filch,Severus Snape,+
-Argus Filch,Dolores Janes Umbridge,+
-Argus Filch,Fred Weasley,-
-Argus Filch,George Weasley,-
-Seamus Finnigan,Lavender Brown,+
-Seamus Finnigan,Cho Chang,+
-Seamus Finnigan,Hermione Granger,+
-Seamus Finnigan,Neville Longbottom,+
-Seamus Finnigan,Luna Lovegood,+
-Seamus Finnigan,Harry Potter,+
-Seamus Finnigan,Ginny Weasley,+
-Seamus Finnigan,Ron Weasley,+
-Nicolas Flamel,Albus Dumbledore,+
-Cornelius Fudge,Albus Dumbledore,-
-Cornelius Fudge,Lucius Malfoy,+
-Cornelius Fudge,Harry Potter,-
-Cornelius Fudge,Dolores Janes Umbridge,+
-Cornelius Fudge,Arthur Weasley,-
-Cornelius Fudge,Percy Weasley,+
-Goyle Sr.,Vincent Crabbe Sr.,+
-Goyle Sr.,Gregory Goyle,+
-Goyle Sr.,Lord Voldemort,+
-Gregory Goyle,Goyle Sr.,+
-Gregory Goyle,Vincent Crabbe,+
-Gregory Goyle,Draco Malfoy,+
-Gregory Goyle,Harry Potter,-
-Gregory Goyle,Lord Voldemort,+
-Hermione Granger,Harry Potter,+
-Hermione Granger,Ron Weasley,+
-Hermione Granger,George Weasley,+
-Hermione Granger,Molly Weasley,+
-Hermione Granger,Severus Snape,+
-Hermione Granger,Luna Lovegood,+
-Hermione Granger,Neville Longbottom,+
-Hermione Granger,Lord Voldemort,-
-Hermione Granger,Peter Pettigrew,-
-Hermione Granger,Draco Malfoy,-
-Hermione Granger,Argus Filch,-
-Hermione Granger,Gregory Goyle,-
-Rubeus Hagrid,Lord Voldemort,-
-Rubeus Hagrid,Fluffy,+
-Rubeus Hagrid,Aragog,+
-Rubeus Hagrid,Grawp,+
-Rubeus Hagrid,Ron Weasley,+
-Rubeus Hagrid,Hermione Granger,+
-Rubeus Hagrid,Severus Snape,+
-Rubeus Hagrid,Harry Potter,+
-Rubeus Hagrid,Neville Longbottom,+
-Rubeus Hagrid,Olympe Maxime,+
-Rubeus Hagrid,Minerva McGonagall,+
-Rubeus Hagrid,Albus Dumbledore,+
-Igor Karkaroff,Lord Voldemort,-
-Igor Karkaroff,Viktor Krum,+
-Viktor Krum,Igor Karkaroff,+
-Viktor Krum,Harry Potter,+
-Viktor Krum,Fleur Delacour,+
-Viktor Krum,Cedric Diggory,+
-Viktor Krum,Hermione Granger,+
-Bellatrix Lestrange,Lord Voldemort,+
-Bellatrix Lestrange,Lucius Malfoy,+
-Bellatrix Lestrange,Narcissa Malfoy,+
-Bellatrix Lestrange,Sirius Black,-
-Bellatrix Lestrange,Harry Potter,-
-Bellatrix Lestrange,Nymphadora Tonks,-
-Bellatrix Lestrange,Molly Weasley,-
-Bellatrix Lestrange,Dobby,-
-Alice Longbottom,Frank Longbottom,+
-Alice Longbottom,Frank Longbottom,+
-Alice Longbottom,Neville Longbottom,+
-Frank Longbottom,Alice Longbottom,+
-Frank Longbottom,Lord Voldemort,-
-Frank Longbottom,Neville Longbottom,+
-Neville Longbottom,Harry Potter,+
-Neville Longbottom,Lord Voldemort,-
-Neville Longbottom,Hermione Granger,+
-Neville Longbottom,Ron Weasley,+
-Neville Longbottom,Luna Lovegood,+
-Neville Longbottom,Draco Malfoy,-
-Luna Lovegood,Neville Longbottom,+
-Luna Lovegood,Harry Potter,+
-Luna Lovegood,Hermione Granger,+
-Luna Lovegood,Ron Weasley,+
-Xenophilius Lovegood,Luna Lovegood,+
-Remus Lupin,Peter Pettigrew,-
-Remus Lupin,Lord Voldemort,-
-Remus Lupin,James Potter,+
-Remus Lupin,Sirius Black,+
-Remus Lupin,Nymphadora Tonks,+
-Remus Lupin,Harry Potter,+
-Remus Lupin,Minerva McGonagall,+
-Draco Malfoy,Vincent Crabbe,+
-Draco Malfoy,Gregory Goyle,+
-Draco Malfoy,Lucius Malfoy,+
-Draco Malfoy,Narcissa Malfoy,+
-Draco Malfoy,Harry Potter,-
-Draco Malfoy,Hermione Granger,-
-Draco Malfoy,Ron Weasley,-
-Lucius Malfoy,Draco Malfoy,+
-Lucius Malfoy,Narcissa Malfoy,+
-Lucius Malfoy,Lord Voldemort,+
-Lucius Malfoy,Harry Potter,-
-Lucius Malfoy,Dobby,-
-Narcissa Malfoy,Lucius Malfoy,+
-Narcissa Malfoy,Lord Voldemort,+
-Narcissa Malfoy,Bellatrix Lestrange,+
-Olympe Maxime,Rubeus Hagrid,+
-Olympe Maxime,Fleur Delacour,+
-Olympe Maxime,Albus Dumbledore,+
-Olympe Maxime,Igor Karkaroff,+
-Minerva McGonagall,Argus Filch,+
-Minerva McGonagall,Rubeus Hagrid,+
-Minerva McGonagall,Dolores Janes Umbridge,-
-Minerva McGonagall,Lord Voldemort,-
-Minerva McGonagall,Albus Dumbledore,+
-Minerva McGonagall,Harry Potter,+
-Harry Potter,Minerva McGonagall,+
-Minerva McGonagall,Hermione Granger,+
-Hermione Granger,Minerva McGonagall,+
-Minerva McGonagall,Ron Weasley,+
-Ron Weasley,Minerva McGonagall,+
-Minerva McGonagall,Lord Voldemort,-
-Lord Voldemort,Minerva McGonagall,-
-Minerva McGonagall,Albus Dumbledore,+
-Albus Dumbledore,Minerva McGonagall,+
-"Alastor ""Mad-Eye"" Moody",Harry Potter,+
-"Alastor ""Mad-Eye"" Moody",Arthur Weasley,+
-"Alastor ""Mad-Eye"" Moody",Molly Weasley,+
-Harry Potter,"Alastor ""Mad-Eye"" Moody",+
-Harry Potter,Lord Voldemort,-
-"Alastor ""Mad-Eye"" Moody",Hermione Granger,+
-Hermione Granger,"Alastor ""Mad-Eye"" Moody",+
-"Alastor ""Mad-Eye"" Moody",Hermione Granger,+
-Hermione Granger,"Alastor ""Mad-Eye"" Moody",+
-"Alastor ""Mad-Eye"" Moody","Bartemius ""Barty"" Crouch Jr.",-
-"Bartemius ""Barty"" Crouch Jr.","Alastor ""Mad-Eye"" Moody",-
-"Alastor ""Mad-Eye"" Moody",Albus Dumbledore,+
-Albus Dumbledore,"Alastor ""Mad-Eye"" Moody",+
-"Alastor ""Mad-Eye"" Moody",Lord Voldemort,-
-Lord Voldemort,"Alastor ""Mad-Eye"" Moody",-
-Peter Pettigrew,Sirius Black,-
-Sirius Black,Peter Pettigrew,-
-Peter Pettigrew,James Potter,-
-James Potter,Peter Pettigrew,-
-Peter Pettigrew,Lily Potter,-
-Lily Potter,Peter Pettigrew,-
-Lily Potter,Harry Potter,+
-Peter Pettigrew,Lord Voldemort,+
-Lord Voldemort,Peter Pettigrew,+
-Peter Pettigrew,Harry Potter,-
-Harry Potter,Peter Pettigrew,-
-James Potter,Harry Potter,+
-Harry Potter,James Potter,+
-James Potter,Remus Lupin,+
-Remus Lupin,James Potter,+
-James Potter,Sirius Black,+
-Sirius Black,James Potter,+
-James Potter,Peter Pettigrew,-
-Peter Pettigrew,James Potter,-
-James Potter,Lord Voldemort,-
-Lord Voldemort,James Potter,-
-James Potter,Lily Potter,+
-Lily Potter,James Potter,+
-Lily Potter,Lord Voldemort,-
-Lord Voldemort,Lily Potter,-
-Lily Potter,Severus Snape,+
-Severus Snape,Lily Potter,+
-Quirinus Quirrell,Harry Potter,-
-Harry Potter,Quirinus Quirrell,-
-Quirinus Quirrell,Hermione Granger,-
-Hermione Granger,Quirinus Quirrell,-
-Quirinus Quirrell,Hermione Granger,-
-Hermione Granger,Quirinus Quirrell,-
-Quirinus Quirrell,Albus Dumbledore,-
-Albus Dumbledore,Quirinus Quirrell,-
-Quirinus Quirrell,Lord Voldemort,-
-Lord Voldemort,Quirinus Quirrell,-
-Tom Riddle Sr.,Lord Voldemort,-
-Tom Riddle Sr.,Tom Riddle Sr.,-
-Tom Riddle Sr.,Mary Riddle,+
-Mary Riddle,Tom Riddle Sr.,+
-Mary Riddle,Lord Voldemort,-
-Tom Riddle Sr.,Lord Voldemort,-
-Lord Voldemort,Tom Riddle Sr.,-
-Rita Skeeter,Harry Potter,-
-Harry Potter,Rita Skeeter,-
-Rita Skeeter,Albus Dumbledore,-
-Albus Dumbledore,Rita Skeeter,-
-Severus Snape,Harry Potter,+
-Harry Potter,Severus Snape,+
-Severus Snape,Hermione Granger,+
-Hermione Granger,Severus Snape,+
-Severus Snape,Hermione Granger,+
-Hermione Granger,Severus Snape,+
-Quirinus Quirrell,Albus Dumbledore,+
-Albus Dumbledore,Quirinus Quirrell,+
-Severus Snape,Lily Potter,+
-Lily Potter,Severus Snape,+
-Severus Snape,Lord Voldemort,-
-Lord Voldemort,Severus Snape,-
-Nymphadora Tonks,Remus Lupin,+
-Nymphadora Tonks,Lord Voldemort,-
-Remus Lupin,Nymphadora Tonks,+
-Dolores Janes Umbridge,Harry Potter,-
-Harry Potter,Dolores Janes Umbridge,-
-Dolores Janes Umbridge,Hermione Granger,-
-Hermione Granger,Dolores Janes Umbridge,-
-Dolores Janes Umbridge,Hermione Granger,-
-Hermione Granger,Dolores Janes Umbridge,-
-Dolores Janes Umbridge,Albus Dumbledore,-
-Albus Dumbledore,Dolores Janes Umbridge,-
-Dolores Janes Umbridge,Cornelius Fudge,+
-Cornelius Fudge,Dolores Janes Umbridge,+
-Arthur Weasley,Hermione Granger,+
-Arthur Weasley,Sirius Black,+
-Arthur Weasley,Albus Dumbledore,+
-Arthur Weasley,Lucius Malfoy,-
-Arthur Weasley,Harry Potter,+
-Hermione Granger,Arthur Weasley,+
-Arthur Weasley,Bill Weasley,+
-Bill Weasley,Arthur Weasley,+
-Arthur Weasley,Charlie Weasley,+
-Charlie Weasley,Arthur Weasley,+
-Arthur Weasley,Fred Weasley,+
-Fred Weasley,Arthur Weasley,+
-Arthur Weasley,George Weasley,+
-George Weasley,Arthur Weasley,+
-Arthur Weasley,George Weasley,+
-George Weasley,Arthur Weasley,+
-Arthur Weasley,Ginny Weasley,+
-Ginny Weasley,Arthur Weasley,+
-Arthur Weasley,Percy Weasley,+
-Percy Weasley,Arthur Weasley,+
-Bill Weasley,Harry Potter,+
-Bill Weasley,Lord Voldemort,-
-Bill Weasley,Hermione Granger,+
-Hermione Granger,Bill Weasley,+
-Arthur Weasley,Bill Weasley,+
-Bill Weasley,Arthur Weasley,+
-Bill Weasley,Charlie Weasley,+
-Charlie Weasley,Bill Weasley,+
-Bill Weasley,Fred Weasley,+
-Fred Weasley,Bill Weasley,+
-Bill Weasley,George Weasley,+
-George Weasley,Bill Weasley,+
-Bill Weasley,George Weasley,+
-George Weasley,Bill Weasley,+
-Bill Weasley,Ginny Weasley,+
-Ginny Weasley,Bill Weasley,+
-Bill Weasley,Percy Weasley,+
-Percy Weasley,Bill Weasley,+
-Charlie Weasley,Hermione Granger,+
-Charlie Weasley,Harry Potter,+
-Hermione Granger,Charlie Weasley,+
-Arthur Weasley,Charlie Weasley,+
-Charlie Weasley,Arthur Weasley,+
-Charlie Weasley,Fred Weasley,+
-Fred Weasley,Charlie Weasley,+
-Charlie Weasley,George Weasley,+
-George Weasley,Charlie Weasley,+
-Charlie Weasley,George Weasley,+
-Charlie Weasley,Lord Voldemort,-
-George Weasley,Charlie Weasley,+
-Charlie Weasley,Ginny Weasley,+
-Ginny Weasley,Charlie Weasley,+
-Charlie Weasley,Percy Weasley,+
-Percy Weasley,Charlie Weasley,+
-Fred Weasley,Hermione Granger,+
-Fred Weasley,Remus Lupin,+
-Fred Weasley,Peter Pettigrew,-
-Fred Weasley,Harry Potter,+
-Fred Weasley,Lord Voldemort,-
-Fred Weasley,Severus Snape,+
-Fred Weasley,Arthur Weasley,+
-Fred Weasley,Bill Weasley,+
-Fred Weasley,Charlie Weasley,+
-Fred Weasley,George Weasley,+
-Fred Weasley,Ginny Weasley,+
-Fred Weasley,Molly Weasley,+
-Fred Weasley,Percy Weasley,+
-Fred Weasley,Ron Weasley,+
-George Weasley,Hermione Granger,+
-George Weasley,Remus Lupin,+
-George Weasley,Peter Pettigrew,-
-George Weasley,Harry Potter,+
-George Weasley,Lord Voldemort,-
-George Weasley,Severus Snape,+
-George Weasley,Arthur Weasley,+
-George Weasley,Bill Weasley,+
-George Weasley,Charlie Weasley,+
-George Weasley,Fred Weasley,+
-George Weasley,Ginny Weasley,+
-George Weasley,Molly Weasley,+
-George Weasley,Percy Weasley,+
-George Weasley,Ron Weasley,+
-Ginny Weasley,Hermione Granger,+
-Ginny Weasley,Remus Lupin,+
-Ginny Weasley,Peter Pettigrew,-
-Ginny Weasley,Harry Potter,+
-Ginny Weasley,Lord Voldemort,-
-Ginny Weasley,Severus Snape,+
-Ginny Weasley,Arthur Weasley,+
-Ginny Weasley,Bill Weasley,+
-Ginny Weasley,Charlie Weasley,+
-Ginny Weasley,George Weasley,+
-Ginny Weasley,Fred Weasley,+
-Ginny Weasley,Molly Weasley,+
-Ginny Weasley,Percy Weasley,+
-Ginny Weasley,Percy Weasley,+
-Ginny Weasley,Ron Weasley,+
-Molly Weasley,Sirius Black,+
-Molly Weasley,Albus Dumbledore,+
-Molly Weasley,Hermione Granger,+
-Molly Weasley,Lucius Malfoy,-
-Molly Weasley,Harry Potter,+
-Molly Weasley,Lord Voldemort,-
-Molly Weasley,Arthur Weasley,+
-Molly Weasley,Bill Weasley,+
-Molly Weasley,Charlie Weasley,+
-Molly Weasley,Fred Weasley,+
-Molly Weasley,George Weasley,+
-Molly Weasley,Ginny Weasley,+
-Molly Weasley,Percy Weasley,+
-Molly Weasley,Ron Weasley,+
-Percy Weasley,Arthur Weasley,+
-Percy Weasley,Bill Weasley,+
-Percy Weasley,Charlie Weasley,+
-Percy Weasley,Fred Weasley,+
-Percy Weasley,George Weasley,+
-Percy Weasley,Ginny Weasley,+
-Percy Weasley,Molly Weasley,+
-Percy Weasley,Ron Weasley,+
-Ron Weasley,Sirius Black,+
-Ron Weasley,Fleur Delacour,+
-Ron Weasley,Albus Dumbledore,+
-Ron Weasley,Argus Filch,-
-Ron Weasley,Seamus Finnigan,+
-Ron Weasley,Gregory Goyle,-
-Ron Weasley,Hermione Granger,+
-Ron Weasley,Rubeus Hagrid,+
-Ron Weasley,Bellatrix Lestrange,-
-Ron Weasley,Neville Longbottom,+
-Ron Weasley,Luna Lovegood,+
-Ron Weasley,Remus Lupin,+
-Ron Weasley,Draco Malfoy,-
-Ron Weasley,Lucius Malfoy,-
-Ron Weasley,Minerva McGonagall,+
-Ron Weasley,"Alastor ""Mad-Eye"" Moody",+
-Ron Weasley,Peter Pettigrew,-
-Ron Weasley,Harry Potter,+
-Ron Weasley,Lord Voldemort,-
-Ron Weasley,Severus Snape,+
-Ron Weasley,Dolores Janes Umbridge,-
-Ron Weasley,Arthur Weasley,+
-Ron Weasley,Bill Weasley,+
-Ron Weasley,Charlie Weasley,+
-Ron Weasley,Fred Weasley,+
-Ron Weasley,George Weasley,+
-Ron Weasley,Ginny Weasley,+
-Ron Weasley,Molly Weasley,+
-Ron Weasley,Percy Weasley,+
-Ron Weasley,Dobby,+
-Ron Weasley,Fluffy,-
-Ron Weasley,Aragog,-
-Ron Weasley,Grawp,+
-Dobby,Hermione Granger,+
-Dobby,Bellatrix Lestrange,-
-Dobby,Draco Malfoy,-
-Dobby,Lucius Malfoy,-
-Dobby,Harry Potter,+
-Dobby,Ron Weasley,+
-Fluffy,Hermione Granger,-
-Fluffy,Rubeus Hagrid,+
-Fluffy,Harry Potter,-
-Fluffy,Ron Weasley,-
-Hedwig,Harry Potter,+
-Moaning Myrtle,Harry Potter,+
-Aragog,Hermione Granger,-
-Aragog,Rubeus Hagrid,+
-Aragog,Harry Potter,-
-Aragog,Ron Weasley,-
-Grawp,Hermione Granger,+
-Grawp,Rubeus Hagrid,+
-Grawp,Harry Potter,+
-Aragog,Ron Weasley,+
+source,target
+Regulus Arcturus Black,Sirius Black
+Regulus Arcturus Black,Bellatrix Lestrange
+Regulus Arcturus Black,Lord Voldemort
+Sirius Black,Regulus Arcturus Black
+Sirius Black,Albus Dumbledore
+Sirius Black,Hermione Granger
+Sirius Black,Bellatrix Lestrange
+Sirius Black,Remus Lupin
+Sirius Black,Lucius Malfoy
+Sirius Black,Narcissa Malfoy
+Sirius Black,Minerva McGonagall
+Sirius Black,"Alastor ""Mad-Eye"" Moody"
+Sirius Black,Peter Pettigrew
+Sirius Black,Harry Potter
+Sirius Black,James Potter
+Sirius Black,Lily Potter
+Sirius Black,Lord Voldemort
+Sirius Black,Severus Snape
+Sirius Black,Nymphadora Tonks
+Sirius Black,Arthur Weasley
+Sirius Black,Fred Weasley
+Sirius Black,George Weasley
+Sirius Black,Ginny Weasley
+Sirius Black,Ron Weasley
+Lavender Brown,Hermione Granger
+Lavender Brown,Neville Longbottom
+Lavender Brown,Ron Weasley
+Cho Chang,Cedric Diggory
+Cho Chang,Seamus Finnigan
+Cho Chang,Hermione Granger
+Cho Chang,Neville Longbottom
+Cho Chang,Harry Potter
+Cho Chang,Lord Voldemort
+Cho Chang,Ron Weasley
+Vincent Crabbe Sr.,Regulus Arcturus Black
+Vincent Crabbe Sr.,Vincent Crabbe
+Vincent Crabbe Sr.,"Bartemius ""Barty"" Crouch Sr."
+Vincent Crabbe Sr.,Bellatrix Lestrange
+Vincent Crabbe Sr.,Lucius Malfoy
+Vincent Crabbe Sr.,Peter Pettigrew
+Vincent Crabbe Sr.,Lord Voldemort
+Vincent Crabbe Sr.,Severus Snape
+Vincent Crabbe,Vincent Crabbe Sr.
+Vincent Crabbe,Dolores Janes Umbridge
+Vincent Crabbe,Gregory Goyle
+Vincent Crabbe,Hermione Granger
+Vincent Crabbe,Draco Malfoy
+Vincent Crabbe,Harry Potter
+Vincent Crabbe,Ron Weasley
+"Bartemius ""Barty"" Crouch Sr.",Vincent Crabbe Sr.
+"Bartemius ""Barty"" Crouch Sr.","Bartemius ""Barty"" Crouch Jr."
+"Bartemius ""Barty"" Crouch Sr.",Igor Karkaroff
+"Bartemius ""Barty"" Crouch Sr.",Percy Weasley
+"Bartemius ""Barty"" Crouch Jr.","Bartemius ""Barty"" Crouch Sr."
+"Bartemius ""Barty"" Crouch Jr.",Hermione Granger
+"Bartemius ""Barty"" Crouch Jr.",Neville Longbottom
+"Bartemius ""Barty"" Crouch Jr.",Minerva McGonagall
+"Bartemius ""Barty"" Crouch Jr.","Alastor ""Mad-Eye"" Moody"
+"Bartemius ""Barty"" Crouch Jr.",Harry Potter
+"Bartemius ""Barty"" Crouch Jr.",Lord Voldemort
+"Bartemius ""Barty"" Crouch Jr.",Severus Snape
+"Bartemius ""Barty"" Crouch Jr.",Peter Pettigrew
+Fleur Delacour,Hermione Granger
+Fleur Delacour,Bellatrix Lestrange
+Fleur Delacour,Neville Longbottom
+Fleur Delacour,"Alastor ""Mad-Eye"" Moody"
+Fleur Delacour,Harry Potter
+Fleur Delacour,Bill Weasley
+Fleur Delacour,Ginny Weasley
+Fleur Delacour,Molly Weasley
+Fleur Delacour,Ron Weasley
+Cedric Diggory,Cho Chang
+Cedric Diggory,Harry Potter
+Cedric Diggory,Lord Voldemort
+Alberforth Dumbledore,Albus Dumbledore
+Alberforth Dumbledore,Hermione Granger
+Alberforth Dumbledore,Harry Potter
+Alberforth Dumbledore,Ron Weasley
+Alberforth Dumbledore,Dobby
+Albus Dumbledore,Sirius Black
+Albus Dumbledore,Alberforth Dumbledore
+Albus Dumbledore,Petunia Dursley
+Albus Dumbledore,Vernon Dursley
+Albus Dumbledore,Hermione Granger
+Albus Dumbledore,Rubeus Hagrid
+Albus Dumbledore,Bellatrix Lestrange
+Albus Dumbledore,Remus Lupin
+Albus Dumbledore,Minerva McGonagall
+Albus Dumbledore,Minerva McGonagall
+Albus Dumbledore,"Alastor ""Mad-Eye"" Moody"
+Albus Dumbledore,Peter Pettigrew
+Albus Dumbledore,Harry Potter
+Albus Dumbledore,James Potter
+Albus Dumbledore,Lily Potter
+Albus Dumbledore,Quirinus Quirrell
+Albus Dumbledore,Lord Voldemort
+Albus Dumbledore,Rita Skeeter
+Albus Dumbledore,Severus Snape
+Albus Dumbledore,Dolores Janes Umbridge
+Albus Dumbledore,Dolores Janes Umbridge
+Albus Dumbledore,Arthur Weasley
+Albus Dumbledore,Bill Weasley
+Albus Dumbledore,Charlie Weasley
+Albus Dumbledore,Fred Weasley
+Albus Dumbledore,George Weasley
+Albus Dumbledore,Ginny Weasley
+Albus Dumbledore,Molly Weasley
+Albus Dumbledore,Percy Weasley
+Albus Dumbledore,Ron Weasley
+Dudley Dursley,Dudley Dursley
+Dudley Dursley,Vernon Dursley
+Dudley Dursley,Harry Potter
+Dudley Dursley,Rubeus Hagrid
+Petunia Dursley,Albus Dumbledore
+Petunia Dursley,Dudley Dursley
+Petunia Dursley,Petunia Dursley
+Petunia Dursley,Harry Potter
+Petunia Dursley,Lily Potter
+Vernon Dursley,Albus Dumbledore
+Vernon Dursley,Dudley Dursley
+Vernon Dursley,Petunia Dursley
+Vernon Dursley,Harry Potter
+Argus Filch,Sirius Black
+Argus Filch,Albus Dumbledore
+Argus Filch,Rubeus Hagrid
+Argus Filch,Minerva McGonagall
+Argus Filch,Peter Pettigrew
+Argus Filch,Harry Potter
+Argus Filch,James Potter
+Argus Filch,Severus Snape
+Argus Filch,Dolores Janes Umbridge
+Argus Filch,Fred Weasley
+Argus Filch,George Weasley
+Seamus Finnigan,Lavender Brown
+Seamus Finnigan,Cho Chang
+Seamus Finnigan,Hermione Granger
+Seamus Finnigan,Neville Longbottom
+Seamus Finnigan,Luna Lovegood
+Seamus Finnigan,Harry Potter
+Seamus Finnigan,Ginny Weasley
+Seamus Finnigan,Ron Weasley
+Nicolas Flamel,Albus Dumbledore
+Cornelius Fudge,Albus Dumbledore
+Cornelius Fudge,Lucius Malfoy
+Cornelius Fudge,Harry Potter
+Cornelius Fudge,Dolores Janes Umbridge
+Cornelius Fudge,Arthur Weasley
+Cornelius Fudge,Percy Weasley
+Goyle Sr.,Vincent Crabbe Sr.
+Goyle Sr.,Gregory Goyle
+Goyle Sr.,Lord Voldemort
+Gregory Goyle,Goyle Sr.
+Gregory Goyle,Vincent Crabbe
+Gregory Goyle,Draco Malfoy
+Gregory Goyle,Harry Potter
+Gregory Goyle,Lord Voldemort
+Hermione Granger,Harry Potter
+Hermione Granger,Ron Weasley
+Hermione Granger,George Weasley
+Hermione Granger,Molly Weasley
+Hermione Granger,Severus Snape
+Hermione Granger,Luna Lovegood
+Hermione Granger,Neville Longbottom
+Hermione Granger,Lord Voldemort
+Hermione Granger,Peter Pettigrew
+Hermione Granger,Draco Malfoy
+Hermione Granger,Argus Filch
+Hermione Granger,Gregory Goyle
+Rubeus Hagrid,Lord Voldemort
+Rubeus Hagrid,Fluffy
+Rubeus Hagrid,Aragog
+Rubeus Hagrid,Grawp
+Rubeus Hagrid,Ron Weasley
+Rubeus Hagrid,Hermione Granger
+Rubeus Hagrid,Severus Snape
+Rubeus Hagrid,Harry Potter
+Rubeus Hagrid,Neville Longbottom
+Rubeus Hagrid,Olympe Maxime
+Rubeus Hagrid,Minerva McGonagall
+Rubeus Hagrid,Albus Dumbledore
+Igor Karkaroff,Lord Voldemort
+Igor Karkaroff,Viktor Krum
+Viktor Krum,Igor Karkaroff
+Viktor Krum,Harry Potter
+Viktor Krum,Fleur Delacour
+Viktor Krum,Cedric Diggory
+Viktor Krum,Hermione Granger
+Bellatrix Lestrange,Lord Voldemort
+Bellatrix Lestrange,Lucius Malfoy
+Bellatrix Lestrange,Narcissa Malfoy
+Bellatrix Lestrange,Sirius Black
+Bellatrix Lestrange,Harry Potter
+Bellatrix Lestrange,Nymphadora Tonks
+Bellatrix Lestrange,Molly Weasley
+Bellatrix Lestrange,Dobby
+Alice Longbottom,Frank Longbottom
+Alice Longbottom,Frank Longbottom
+Alice Longbottom,Neville Longbottom
+Frank Longbottom,Alice Longbottom
+Frank Longbottom,Lord Voldemort
+Frank Longbottom,Neville Longbottom
+Neville Longbottom,Harry Potter
+Neville Longbottom,Lord Voldemort
+Neville Longbottom,Hermione Granger
+Neville Longbottom,Ron Weasley
+Neville Longbottom,Luna Lovegood
+Neville Longbottom,Draco Malfoy
+Luna Lovegood,Neville Longbottom
+Luna Lovegood,Harry Potter
+Luna Lovegood,Hermione Granger
+Luna Lovegood,Ron Weasley
+Xenophilius Lovegood,Luna Lovegood
+Remus Lupin,Peter Pettigrew
+Remus Lupin,Lord Voldemort
+Remus Lupin,James Potter
+Remus Lupin,Sirius Black
+Remus Lupin,Nymphadora Tonks
+Remus Lupin,Harry Potter
+Remus Lupin,Minerva McGonagall
+Draco Malfoy,Vincent Crabbe
+Draco Malfoy,Gregory Goyle
+Draco Malfoy,Lucius Malfoy
+Draco Malfoy,Narcissa Malfoy
+Draco Malfoy,Harry Potter
+Draco Malfoy,Hermione Granger
+Draco Malfoy,Ron Weasley
+Lucius Malfoy,Draco Malfoy
+Lucius Malfoy,Narcissa Malfoy
+Lucius Malfoy,Lord Voldemort
+Lucius Malfoy,Harry Potter
+Lucius Malfoy,Dobby
+Narcissa Malfoy,Lucius Malfoy
+Narcissa Malfoy,Lord Voldemort
+Narcissa Malfoy,Bellatrix Lestrange
+Olympe Maxime,Rubeus Hagrid
+Olympe Maxime,Fleur Delacour
+Olympe Maxime,Albus Dumbledore
+Olympe Maxime,Igor Karkaroff
+Minerva McGonagall,Argus Filch
+Minerva McGonagall,Rubeus Hagrid
+Minerva McGonagall,Dolores Janes Umbridge
+Minerva McGonagall,Lord Voldemort
+Minerva McGonagall,Albus Dumbledore
+Minerva McGonagall,Harry Potter
+Harry Potter,Minerva McGonagall
+Minerva McGonagall,Hermione Granger
+Hermione Granger,Minerva McGonagall
+Minerva McGonagall,Ron Weasley
+Ron Weasley,Minerva McGonagall
+Minerva McGonagall,Lord Voldemort
+Lord Voldemort,Minerva McGonagall
+Minerva McGonagall,Albus Dumbledore
+Albus Dumbledore,Minerva McGonagall
+"Alastor ""Mad-Eye"" Moody",Harry Potter
+"Alastor ""Mad-Eye"" Moody",Arthur Weasley
+"Alastor ""Mad-Eye"" Moody",Molly Weasley
+Harry Potter,"Alastor ""Mad-Eye"" Moody"
+Harry Potter,Lord Voldemort
+"Alastor ""Mad-Eye"" Moody",Hermione Granger
+Hermione Granger,"Alastor ""Mad-Eye"" Moody"
+"Alastor ""Mad-Eye"" Moody",Hermione Granger
+Hermione Granger,"Alastor ""Mad-Eye"" Moody"
+"Alastor ""Mad-Eye"" Moody","Bartemius ""Barty"" Crouch Jr."
+"Bartemius ""Barty"" Crouch Jr.","Alastor ""Mad-Eye"" Moody"
+"Alastor ""Mad-Eye"" Moody",Albus Dumbledore
+Albus Dumbledore,"Alastor ""Mad-Eye"" Moody"
+"Alastor ""Mad-Eye"" Moody",Lord Voldemort
+Lord Voldemort,"Alastor ""Mad-Eye"" Moody"
+Peter Pettigrew,Sirius Black
+Sirius Black,Peter Pettigrew
+Peter Pettigrew,James Potter
+James Potter,Peter Pettigrew
+Peter Pettigrew,Lily Potter
+Lily Potter,Peter Pettigrew
+Lily Potter,Harry Potter
+Peter Pettigrew,Lord Voldemort
+Lord Voldemort,Peter Pettigrew
+Peter Pettigrew,Harry Potter
+Harry Potter,Peter Pettigrew
+James Potter,Harry Potter
+Harry Potter,James Potter
+James Potter,Remus Lupin
+Remus Lupin,James Potter
+James Potter,Sirius Black
+Sirius Black,James Potter
+James Potter,Peter Pettigrew
+Peter Pettigrew,James Potter
+James Potter,Lord Voldemort
+Lord Voldemort,James Potter
+James Potter,Lily Potter
+Lily Potter,James Potter
+Lily Potter,Lord Voldemort
+Lord Voldemort,Lily Potter
+Lily Potter,Severus Snape
+Severus Snape,Lily Potter
+Quirinus Quirrell,Harry Potter
+Harry Potter,Quirinus Quirrell
+Quirinus Quirrell,Hermione Granger
+Hermione Granger,Quirinus Quirrell
+Quirinus Quirrell,Hermione Granger
+Hermione Granger,Quirinus Quirrell
+Quirinus Quirrell,Albus Dumbledore
+Albus Dumbledore,Quirinus Quirrell
+Quirinus Quirrell,Lord Voldemort
+Lord Voldemort,Quirinus Quirrell
+Tom Riddle Sr.,Lord Voldemort
+Tom Riddle Sr.,Tom Riddle Sr.
+Tom Riddle Sr.,Mary Riddle
+Mary Riddle,Tom Riddle Sr.
+Mary Riddle,Lord Voldemort
+Tom Riddle Sr.,Lord Voldemort
+Lord Voldemort,Tom Riddle Sr.
+Rita Skeeter,Harry Potter
+Harry Potter,Rita Skeeter
+Rita Skeeter,Albus Dumbledore
+Albus Dumbledore,Rita Skeeter
+Severus Snape,Harry Potter
+Harry Potter,Severus Snape
+Severus Snape,Hermione Granger
+Hermione Granger,Severus Snape
+Severus Snape,Hermione Granger
+Hermione Granger,Severus Snape
+Quirinus Quirrell,Albus Dumbledore
+Albus Dumbledore,Quirinus Quirrell
+Severus Snape,Lily Potter
+Lily Potter,Severus Snape
+Severus Snape,Lord Voldemort
+Lord Voldemort,Severus Snape
+Nymphadora Tonks,Remus Lupin
+Nymphadora Tonks,Lord Voldemort
+Remus Lupin,Nymphadora Tonks
+Dolores Janes Umbridge,Harry Potter
+Harry Potter,Dolores Janes Umbridge
+Dolores Janes Umbridge,Hermione Granger
+Hermione Granger,Dolores Janes Umbridge
+Dolores Janes Umbridge,Hermione Granger
+Hermione Granger,Dolores Janes Umbridge
+Dolores Janes Umbridge,Albus Dumbledore
+Albus Dumbledore,Dolores Janes Umbridge
+Dolores Janes Umbridge,Cornelius Fudge
+Cornelius Fudge,Dolores Janes Umbridge
+Arthur Weasley,Hermione Granger
+Arthur Weasley,Sirius Black
+Arthur Weasley,Albus Dumbledore
+Arthur Weasley,Lucius Malfoy
+Arthur Weasley,Harry Potter
+Hermione Granger,Arthur Weasley
+Arthur Weasley,Bill Weasley
+Bill Weasley,Arthur Weasley
+Arthur Weasley,Charlie Weasley
+Charlie Weasley,Arthur Weasley
+Arthur Weasley,Fred Weasley
+Fred Weasley,Arthur Weasley
+Arthur Weasley,George Weasley
+George Weasley,Arthur Weasley
+Arthur Weasley,George Weasley
+George Weasley,Arthur Weasley
+Arthur Weasley,Ginny Weasley
+Ginny Weasley,Arthur Weasley
+Arthur Weasley,Percy Weasley
+Percy Weasley,Arthur Weasley
+Bill Weasley,Harry Potter
+Bill Weasley,Lord Voldemort
+Bill Weasley,Hermione Granger
+Hermione Granger,Bill Weasley
+Arthur Weasley,Bill Weasley
+Bill Weasley,Arthur Weasley
+Bill Weasley,Charlie Weasley
+Charlie Weasley,Bill Weasley
+Bill Weasley,Fred Weasley
+Fred Weasley,Bill Weasley
+Bill Weasley,George Weasley
+George Weasley,Bill Weasley
+Bill Weasley,George Weasley
+George Weasley,Bill Weasley
+Bill Weasley,Ginny Weasley
+Ginny Weasley,Bill Weasley
+Bill Weasley,Percy Weasley
+Percy Weasley,Bill Weasley
+Charlie Weasley,Hermione Granger
+Charlie Weasley,Harry Potter
+Hermione Granger,Charlie Weasley
+Arthur Weasley,Charlie Weasley
+Charlie Weasley,Arthur Weasley
+Charlie Weasley,Fred Weasley
+Fred Weasley,Charlie Weasley
+Charlie Weasley,George Weasley
+George Weasley,Charlie Weasley
+Charlie Weasley,George Weasley
+Charlie Weasley,Lord Voldemort
+George Weasley,Charlie Weasley
+Charlie Weasley,Ginny Weasley
+Ginny Weasley,Charlie Weasley
+Charlie Weasley,Percy Weasley
+Percy Weasley,Charlie Weasley
+Fred Weasley,Hermione Granger
+Fred Weasley,Remus Lupin
+Fred Weasley,Peter Pettigrew
+Fred Weasley,Harry Potter
+Fred Weasley,Lord Voldemort
+Fred Weasley,Severus Snape
+Fred Weasley,Arthur Weasley
+Fred Weasley,Bill Weasley
+Fred Weasley,Charlie Weasley
+Fred Weasley,George Weasley
+Fred Weasley,Ginny Weasley
+Fred Weasley,Molly Weasley
+Fred Weasley,Percy Weasley
+Fred Weasley,Ron Weasley
+George Weasley,Hermione Granger
+George Weasley,Remus Lupin
+George Weasley,Peter Pettigrew
+George Weasley,Harry Potter
+George Weasley,Lord Voldemort
+George Weasley,Severus Snape
+George Weasley,Arthur Weasley
+George Weasley,Bill Weasley
+George Weasley,Charlie Weasley
+George Weasley,Fred Weasley
+George Weasley,Ginny Weasley
+George Weasley,Molly Weasley
+George Weasley,Percy Weasley
+George Weasley,Ron Weasley
+Ginny Weasley,Hermione Granger
+Ginny Weasley,Remus Lupin
+Ginny Weasley,Peter Pettigrew
+Ginny Weasley,Harry Potter
+Ginny Weasley,Lord Voldemort
+Ginny Weasley,Severus Snape
+Ginny Weasley,Arthur Weasley
+Ginny Weasley,Bill Weasley
+Ginny Weasley,Charlie Weasley
+Ginny Weasley,George Weasley
+Ginny Weasley,Fred Weasley
+Ginny Weasley,Molly Weasley
+Ginny Weasley,Percy Weasley
+Ginny Weasley,Percy Weasley
+Ginny Weasley,Ron Weasley
+Molly Weasley,Sirius Black
+Molly Weasley,Albus Dumbledore
+Molly Weasley,Hermione Granger
+Molly Weasley,Lucius Malfoy
+Molly Weasley,Harry Potter
+Molly Weasley,Lord Voldemort
+Molly Weasley,Arthur Weasley
+Molly Weasley,Bill Weasley
+Molly Weasley,Charlie Weasley
+Molly Weasley,Fred Weasley
+Molly Weasley,George Weasley
+Molly Weasley,Ginny Weasley
+Molly Weasley,Percy Weasley
+Molly Weasley,Ron Weasley
+Percy Weasley,Arthur Weasley
+Percy Weasley,Bill Weasley
+Percy Weasley,Charlie Weasley
+Percy Weasley,Fred Weasley
+Percy Weasley,George Weasley
+Percy Weasley,Ginny Weasley
+Percy Weasley,Molly Weasley
+Percy Weasley,Ron Weasley
+Ron Weasley,Sirius Black
+Ron Weasley,Fleur Delacour
+Ron Weasley,Albus Dumbledore
+Ron Weasley,Argus Filch
+Ron Weasley,Seamus Finnigan
+Ron Weasley,Gregory Goyle
+Ron Weasley,Hermione Granger
+Ron Weasley,Rubeus Hagrid
+Ron Weasley,Bellatrix Lestrange
+Ron Weasley,Neville Longbottom
+Ron Weasley,Luna Lovegood
+Ron Weasley,Remus Lupin
+Ron Weasley,Draco Malfoy
+Ron Weasley,Lucius Malfoy
+Ron Weasley,Minerva McGonagall
+Ron Weasley,"Alastor ""Mad-Eye"" Moody"
+Ron Weasley,Peter Pettigrew
+Ron Weasley,Harry Potter
+Ron Weasley,Lord Voldemort
+Ron Weasley,Severus Snape
+Ron Weasley,Dolores Janes Umbridge
+Ron Weasley,Arthur Weasley
+Ron Weasley,Bill Weasley
+Ron Weasley,Charlie Weasley
+Ron Weasley,Fred Weasley
+Ron Weasley,George Weasley
+Ron Weasley,Ginny Weasley
+Ron Weasley,Molly Weasley
+Ron Weasley,Percy Weasley
+Ron Weasley,Dobby
+Ron Weasley,Fluffy
+Ron Weasley,Aragog
+Ron Weasley,Grawp
+Dobby,Hermione Granger
+Dobby,Bellatrix Lestrange
+Dobby,Draco Malfoy
+Dobby,Lucius Malfoy
+Dobby,Harry Potter
+Dobby,Ron Weasley
+Fluffy,Hermione Granger
+Fluffy,Rubeus Hagrid
+Fluffy,Harry Potter
+Fluffy,Ron Weasley
+Hedwig,Harry Potter
+Moaning Myrtle,Harry Potter
+Aragog,Hermione Granger
+Aragog,Rubeus Hagrid
+Aragog,Harry Potter
+Aragog,Ron Weasley
+Grawp,Hermione Granger
+Grawp,Rubeus Hagrid
+Grawp,Harry Potter
+Aragog,Ron Weasley
