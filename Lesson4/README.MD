@@ -12,7 +12,7 @@ Credits
 ---------
 * [Social Network Analysis for Startups](https://github.com/maksim2042/SNABook)
 * [Introduction to Social Network methods](http://faculty.ucr.edu/~hanneman/nettext/index.html)
-* [Community Detection and Mining in Social Meida] (http://dmml.asu.edu/cdm/)
+* [Community Detection and Mining in Social Meida](http://dmml.asu.edu/cdm/)
 
 
 
